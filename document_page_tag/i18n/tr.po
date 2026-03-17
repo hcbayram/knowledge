@@ -21,23 +21,23 @@ msgstr ""
 #. module: document_page_tag
 #: model:ir.model,name:document_page_tag.model_document_page_tag
 msgid "A keyword for document pages"
-msgstr ""
+msgstr "Belge sayfaları için anahtar kelime"
 
 #. module: document_page_tag
 #: model:ir.model.fields,field_description:document_page_tag.field_document_page_tag__active
 msgid "Active"
-msgstr ""
+msgstr "Aktif"
 
 #. module: document_page_tag
 #: model_terms:ir.ui.view,arch_db:document_page_tag.view_document_page_tag_form
 #: model_terms:ir.ui.view,arch_db:document_page_tag.view_document_page_tag_search
 msgid "Archived"
-msgstr ""
+msgstr "Arşivlendi"
 
 #. module: document_page_tag
 #: model:ir.model.fields,field_description:document_page_tag.field_document_page_tag__color
 msgid "Color Index"
-msgstr ""
+msgstr "Renk indisi"
 
 #. module: document_page_tag
 #: model:ir.model.fields,field_description:document_page_tag.field_document_page_tag__create_uid
@@ -79,7 +79,7 @@ msgstr "ID"
 #. module: document_page_tag
 #: model:ir.model.fields,field_description:document_page_tag.field_document_page__tag_ids
 msgid "Keywords"
-msgstr ""
+msgstr "Anahtar Kelimeler"
 
 #. module: document_page_tag
 #: model:ir.model.fields,field_description:document_page_tag.field_document_page_tag____last_update
@@ -104,15 +104,15 @@ msgstr "Adı"
 #. module: document_page_tag
 #: model_terms:ir.ui.view,arch_db:document_page_tag.view_document_page_tag_form
 msgid "Tag"
-msgstr ""
+msgstr "Etiket"
 
 #. module: document_page_tag
 #: model:ir.actions.act_window,name:document_page_tag.document_page_tag_action
 #: model:ir.ui.menu,name:document_page_tag.document_page_tag_menu
 msgid "Tags"
-msgstr ""
+msgstr "Etiketler"
 
 #. module: document_page_tag
 #: model:ir.model.constraint,message:document_page_tag.constraint_document_page_tag_unique_name
 msgid "Tags must me unique"
-msgstr ""
+msgstr "Etiketler benzersiz olmalıdır"

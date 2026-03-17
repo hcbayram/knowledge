@@ -21,7 +21,7 @@ msgstr ""
 #. module: document_url
 #: model_terms:ir.ui.view,arch_db:document_url.view_ir_attachment_add_url_form
 msgid "Add"
-msgstr ""
+msgstr "Ekle"
 
 #. module: document_url
 #. openerp-web
@@ -30,7 +30,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:document_url.view_ir_attachment_add_url_form
 #, python-format
 msgid "Add URL"
-msgstr ""
+msgstr "URL Ekle"
 
 #. module: document_url
 #: model_terms:ir.ui.view,arch_db:document_url.view_ir_attachment_add_url_form
@@ -50,7 +50,7 @@ msgstr "Oluşturma"
 #. module: document_url
 #: model:ir.model.fields,field_description:document_url.field_ir_attachment_add_url__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Görünen Ad"
 
 #. module: document_url
 #: model:ir.model.fields,field_description:document_url.field_ir_attachment_add_url__id
@@ -85,7 +85,7 @@ msgstr ""
 #. module: document_url
 #: model:ir.model,name:document_url.model_ir_attachment_add_url
 msgid "Wizard to add URL attachment"
-msgstr ""
+msgstr "URL eki eklemek için sihirbaz"
 
 #. module: document_url
 #: model_terms:ir.ui.view,arch_db:document_url.view_ir_attachment_add_url_form
